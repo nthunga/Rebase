@@ -39,6 +39,8 @@ class ViewController: UIViewController {
         
         // MG Road
         // End of file
+        
+        // Restart the line
     }
     
     func thirdMethod() {
