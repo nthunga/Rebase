@@ -19,11 +19,16 @@ class ViewController: UIViewController {
         //Second commit
     }
 
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
+    func startTesting()  {
+        // My home sweet home
     }
-
-
+    
+    func secondTesting() {
+        // My second home Bengaluru
+        
+        
+        // End of file
+    }
+    
 }
 
