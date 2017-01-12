@@ -32,5 +32,9 @@ class ViewController: UIViewController {
         // End of file
     }
     
+    func thirdMethod() {
+        // Start with Third methods
+    }
+    
 }
 
