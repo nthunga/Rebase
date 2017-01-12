@@ -17,6 +17,8 @@ class ViewController: UIViewController {
         //Second commit
         
         // Hello world
+        
+        // Another line
     }
 
     func startTesting()  {
