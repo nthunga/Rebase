@@ -34,6 +34,8 @@ class ViewController: UIViewController {
     
     func thirdMethod() {
         // Start with Third methods
+        
+        // EOD of new method
     }
     
 }
